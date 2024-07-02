@@ -9,3 +9,7 @@ ajos
 queso
 leche
 nata
+ron
+naranja
+zumo de grosella
+hielo
