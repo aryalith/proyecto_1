@@ -6,3 +6,6 @@ sal
 tomates
 pepinos
 ajos
+queso
+leche
+nata
