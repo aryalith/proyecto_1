@@ -2,3 +2,5 @@ tortilla de patata
 - pelar patatas
 - cortar cebolla
 - batir huevos
+
+Paso 1: freir las patatas
